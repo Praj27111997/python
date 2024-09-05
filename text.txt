@@ -1,2 +1,2 @@
- echo "i am indian working in software company as software engineer."
+print("i am indian working in software company as software engineer.")
 echo "simran raj from mumbai"
