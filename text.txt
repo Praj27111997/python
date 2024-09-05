@@ -1,4 +1,2 @@
-i am indian working in software company as software engineer.
-simran
-raj
-from mumbai
+ echo "i am indian working in software company as software engineer."
+echo "simran raj from mumbai"
